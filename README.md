@@ -1,5 +1,5 @@
 # My Personal Website Portfolio
 
-Check out my website showcasing all about me!
+Showcases my work and general information about me.
 
 https://kaitlinfrani.github.io/WebsitePortfolio/
