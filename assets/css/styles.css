@@ -12,7 +12,7 @@ Look up what font(s) you want, add them, then copy the import url link*/
     --hue-color: 250; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
 
     /* HSL color mode, After picking color, click on color # and it'll give you hsl, or look https://www.w3schools.com/colors/colors_hsl.asp*/
-    /*hue color will keep the color instead of always putting the designated number*/
+    /*hue color will keep the color instead of always putting the designated number, purple color code is #6e57e0*/
     --first-color: hsl(var(--hue-color), 69%, 61%);
     --first-color-second: hsl(var(--hue-color), 69%, 61%);
     --first-color-alt: hsl(var(--hue-color), 57%, 53%);
